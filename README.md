@@ -1,4 +1,4 @@
-# DataStructuresAlgorithmsC-
+# Data Structures & Algorithms C++
 contains assignments as a part of an academic course
 
 1. Matrix Multiplication: program that multiplies two integer matrices given in two files whose names will be passed via command line arguments, program must print out the output matrix to STDOUT in the same format as the matrices in files.
